@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thatfreakingchisel",
+  "name": "That Freaking Chisel",
+  "description": "A chisel mod with distinctive initials.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cannibalvox"],
+  "credits": "Copyright Syndicate, LLC, Licensed under the LGPL",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
